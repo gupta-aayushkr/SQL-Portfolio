@@ -22,7 +22,7 @@ This project dives into the world of airlines data, exploring flight information
 
 ## About Me
 
-I am a passionate data analyst with a strong background in SQL. Feel free to explore these projects and reach out to me if you have any questions or collaboration opportunities.
+I am a passionate data analyst with a strong background in SQL. Feel free to explore these projects and reach out to me if you have any questions.
 
 <!-- Connect with me on LinkedIn: [Aayush Gupta](https://www.linkedin.com/in/aayushkr/) -->
 
